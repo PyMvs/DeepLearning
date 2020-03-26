@@ -41,7 +41,7 @@ De todas formas, el dataset que incorporo a continuación es el original y permi
 *  No es necesario el uso de la **API funcional** debido a que no tendremos 2 ramas diferenciadas.
 *  Ir construyendo una red sencilla e ir incorporando nuevas capas **Dropout** y **fully connected**
 
-###model_1
+## model_1
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
