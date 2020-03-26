@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="assets/icon_classifier.png" width="350">
+  <img src="assets/icon_classifier.PNG" width="350">
 </h3>
 
 
