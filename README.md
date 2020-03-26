@@ -42,7 +42,7 @@ De todas formas, el dataset que incorporo a continuación es el original y permi
 *  Ir construyendo una red sencilla e ir incorporando nuevas capas **Dropout** y **fully connected**
 
 ###model_1
-
+```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -110,7 +110,7 @@ Total params: 975,877
 Trainable params: 971,845
 Non-trainable params: 4,032
 _________________________________________________________________
-
+```
 ## Resultados
 
 <h3 align="center">
